@@ -25,4 +25,4 @@ A full-stack web app that displays food recipes and allows users to create their
 - JWT
 - Bcrypt 
 #### Frontend:
--ReactJS
+- ReactJS
